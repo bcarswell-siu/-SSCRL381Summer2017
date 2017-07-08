@@ -82,3 +82,4 @@ is.logical(k)
 2 >= 3
 "data" == "stats"
 "data" < "stats"
+
