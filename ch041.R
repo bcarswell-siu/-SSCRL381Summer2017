@@ -1,0 +1,12 @@
+1+1
+1+2+3
+3*7*2
+4/2
+4/3
+4*6+5
+(4*6)+5
+4*(6+5)
+#check the help pane
+?'+'
+
+#Brandon Carswell
